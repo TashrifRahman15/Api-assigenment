@@ -46,6 +46,6 @@ By this demo API we can pay marchent
 ## Test case
 ### https://docs.google.com/spreadsheets/d/1RCBLXVisJbcBjZxI-wCt-kWP2ybw32Tk/edit?usp=drive_link&ouid=113180828003064515171&rtpof=true&sd=true
 ## Bug Report
-### https://docs.google.com/spreadsheets/d/1Kx0FtQVan3wxtKzar50Bj2pTmmNOk7lc/edit?usp=drive_link&ouid=113180828003064515171&rtpof=true&sd=true
+### https://docs.google.com/spreadsheets/d/1Woia0pzOx84d8MAZ3OD65-G928BzkEF2/edit?usp=sharing&ouid=113180828003064515171&rtpof=true&sd=true
 ## postman Documentation
 ### https://documenter.getpostman.com/view/29908933/2sAYdkJ9m1
