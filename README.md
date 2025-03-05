@@ -47,3 +47,5 @@ By this demo API we can pay marchent
 ### https://docs.google.com/spreadsheets/d/1RCBLXVisJbcBjZxI-wCt-kWP2ybw32Tk/edit?usp=drive_link&ouid=113180828003064515171&rtpof=true&sd=true
 ## Bug Report
 ### https://docs.google.com/spreadsheets/d/1kkQHpttMz42M3bxvcNNEkueliIQqklZ4/edit?usp=drive_link&ouid=113180828003064515171&rtpof=true&sd=true
+## postman Documentation
+### https://documenter.getpostman.com/view/29908933/2sAYdkJ9m1
